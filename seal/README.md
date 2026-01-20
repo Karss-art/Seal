@@ -19,8 +19,6 @@
 Seal Shell is a lightweight, educational shell implementation that demonstrates core Unix concepts including process groups, terminal control, and signal handling. Built from scratch in C without using `system()` or `popen()`.
 
 **Key Stats:**
-- 📝 1,339 lines of clean C code
-- 💾 37KB compiled binary
 - ⚡ Zero external dependencies
 - 🎓 Educational and well-documented
 
